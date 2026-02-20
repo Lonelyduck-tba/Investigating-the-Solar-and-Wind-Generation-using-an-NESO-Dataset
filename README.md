@@ -24,6 +24,6 @@ I suspected that the solar generation would show as highly volatile if visualise
 
 To export the query into PowerBI I had to create a table from my query, simply done by adding CREAT TABLE AS {table_name} on the first command line. In PowerBI I would create a new report by pressing the "Get Data from other Sources" option and choosing Postgresql Database. I would then connect to the database by inputing the server, database, username(postgres) and password and then selecting which table I wanted to to load, which was {table_name}.
 
-**Creating the PowerBI Report***
+**Creating the PowerBI Report**
 
-Creating the report had me use the line chart, column chart and card visuals. 
+Creating the report had me use the line chart, column chart and card visuals. I presented the findings through interactive visualizations, charts, and dashboards. In addition, I have prepared a comprehensive report that documents every step of my analysis, making it easier for others to comprehend and reproduce the process.
